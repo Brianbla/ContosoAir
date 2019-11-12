@@ -1,3 +1,4 @@
+[![Board Status](https://dev.azure.com/brianbla/e644220f-f92b-4761-a8c7-f33bd0a3b4ce/7a487f5a-48dd-4180-9384-c947c0278739/_apis/work/boardbadge/823f2e2f-65c4-4771-ad54-d0bb90073f2d)](https://dev.azure.com/brianbla/e644220f-f92b-4761-a8c7-f33bd0a3b4ce/_boards/board/t/7a487f5a-48dd-4180-9384-c947c0278739/Microsoft.RequirementCategory)
 [![Build Status](https://dev.azure.com/brianbla/contosoair/_apis/build/status/Brianbla.ContosoAir?branchName=master)](https://dev.azure.com/brianbla/contosoair/_build/latest?definitionId=8&branchName=master)
 
 
